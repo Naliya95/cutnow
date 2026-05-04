@@ -2,7 +2,7 @@ plugins {
     alias(libs.plugins.android.library)
     alias(libs.plugins.kotlin.android)
     alias(libs.plugins.parcelize)
-    id 'kotlin-kapt'
+    alias(libs.plugins.kotlin.kapt)
     id 'maven-publish'
 }
 
@@ -64,7 +64,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github.Naliya95'
                 artifactId = 'cutnow'
-                version = '1.0.3'
+                version = '1.0.4'
                 pom {
                     description = 'naliya95'
                 }
