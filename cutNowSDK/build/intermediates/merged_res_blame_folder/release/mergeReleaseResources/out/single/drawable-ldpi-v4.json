@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.cutnow.sdk.cutNowSDK-release-25:/drawable-ldpi-v4/ic_call_answer.png",
+        "source": "com.cutnow.sdk.cutNowSDK-core-1.12.0-18:/drawable-ldpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "com.cutnow.sdk.cutNowSDK-release-25:/drawable-ldpi-v4/ic_call_answer_video.png",
+        "source": "com.cutnow.sdk.cutNowSDK-core-1.12.0-18:/drawable-ldpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "com.cutnow.sdk.cutNowSDK-release-25:/drawable-ldpi-v4/ic_call_decline_low.png",
+        "source": "com.cutnow.sdk.cutNowSDK-core-1.12.0-18:/drawable-ldpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.cutnow.sdk.cutNowSDK-release-25:/drawable-ldpi-v4/ic_call_answer_video_low.png",
+        "source": "com.cutnow.sdk.cutNowSDK-core-1.12.0-18:/drawable-ldpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "com.cutnow.sdk.cutNowSDK-release-25:/drawable-ldpi-v4/ic_call_answer_low.png",
+        "source": "com.cutnow.sdk.cutNowSDK-core-1.12.0-18:/drawable-ldpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "com.cutnow.sdk.cutNowSDK-release-25:/drawable-ldpi-v4/ic_call_decline.png",
+        "source": "com.cutnow.sdk.cutNowSDK-core-1.12.0-18:/drawable-ldpi-v4/ic_call_decline.png"
+    }
+]

@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.cutnow.sdk.cutNowSDK-release-25:/drawable-watch-v20/abc_dialog_material_background.xml",
+        "source": "com.cutnow.sdk.cutNowSDK-appcompat-1.6.1-17:/drawable-watch-v20/abc_dialog_material_background.xml"
+    }
+]
