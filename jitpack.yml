@@ -1,2 +1,4 @@
 jdk:
   - openjdk17
+install:
+  - ./gradlew :cutNowSDK:publishToMavenLocal -Pgroup=com.github.Naliya95 -Pversion=1.0.8
