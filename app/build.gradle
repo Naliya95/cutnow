@@ -34,7 +34,6 @@ android {
 
 dependencies {
     // Local SDK module
-    implementation project(':cutNowSDK')
     
     // Transitive dependencies required by cutNowSDK
     implementation libs.appcompat
